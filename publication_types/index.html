@@ -354,6 +354,18 @@
   
   
   
+    
+<script>
+(function() {
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang && lang.toLowerCase().startsWith('zh')) {
+        window.location.replace('./zh/');
+    }
+})();
+</script>
+
+
+  
   
 
 
