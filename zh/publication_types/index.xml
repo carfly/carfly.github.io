@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | 车万翔 (Wanxiang Che)</title>
-    <link>/zh/publication_types.html</link>
+    <title>Publication_types | </title>
+    <link>/zh/publication_types/</link>
       <atom:link href="/zh/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>/images/icon_hud6f260a939c2fc65879d80b0d85ac3b4_83103_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu_6ea865157fdf300e.png</url>
       <title>Publication_types</title>
-      <link>/zh/publication_types.html</link>
+      <link>/zh/publication_types/</link>
     </image>
     
   </channel>

@@ -2,42 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh/categories.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/categories.html"
-                />
-  </url><url>
-    <loc>/zh/publication_types.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/publication_types.html"
-                />
-  </url><url>
-    <loc>/zh/tags.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/tags.html"
-                />
-  </url><url>
     <loc>/zh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +12,42 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="/zh/"
+                />
+  </url><url>
+    <loc>/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="/zh/categories/"
+                />
+  </url><url>
+    <loc>/zh/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="/zh/publication_types/"
+                />
+  </url><url>
+    <loc>/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="/zh/tags/"
                 />
   </url>
 </urlset>
