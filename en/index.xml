@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>车万翔 (Wanxiang Che)</title>
-    <link>/zh/</link>
-      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <link>/en/</link>
+      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <description>车万翔 (Wanxiang Che)</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language>
     <image>
       <url>/media/icon_hu_5d711fd59134ae2d.png</url>
       <title>车万翔 (Wanxiang Che)</title>
-      <link>/zh/</link>
+      <link>/en/</link>
     </image>
     
   </channel>
