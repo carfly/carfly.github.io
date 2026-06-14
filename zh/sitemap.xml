@@ -17,13 +17,13 @@
     <loc>/zh/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
+                hreflang="zh-Hans"
+                href="/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/publication_types/"
+                hreflang="en"
+                href="/en/publication_types/"
                 />
   </url><url>
     <loc>/zh/tags/</loc>

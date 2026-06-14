@@ -5,49 +5,49 @@
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/categories/"
+                hreflang="en"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
+                hreflang="zh-Hans"
+                href="/zh/categories/"
                 />
   </url><url>
     <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/publication_types/"
+                hreflang="en"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
+                hreflang="zh-Hans"
+                href="/zh/publication_types/"
                 />
   </url><url>
     <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/tags/"
+                hreflang="en"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
+                hreflang="zh-Hans"
+                href="/zh/tags/"
                 />
   </url><url>
     <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/"
+                hreflang="en"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="zh-Hans"
+                href="/zh/"
                 />
   </url>
 </urlset>
