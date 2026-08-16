@@ -5,13 +5,13 @@
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
+                hreflang="zh-Hans"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/categories/"
+                hreflang="en"
+                href="/en/categories/"
                 />
   </url><url>
     <loc>/en/publication_types/</loc>
