@@ -41,13 +41,13 @@
     <loc>/zh/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="zh-Hans"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/"
+                hreflang="en"
+                href="/en/"
                 />
   </url>
 </urlset>
