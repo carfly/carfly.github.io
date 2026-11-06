@@ -5,25 +5,25 @@
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/categories/"
+                hreflang="en"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
+                hreflang="zh-Hans"
+                href="/zh/categories/"
                 />
   </url><url>
     <loc>/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
+                hreflang="zh-Hans"
+                href="/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/publication_types/"
+                hreflang="en"
+                href="/en/publication_types/"
                 />
   </url><url>
     <loc>/en/tags/</loc>
